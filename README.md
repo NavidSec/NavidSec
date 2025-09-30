@@ -1,16 +1,19 @@
-## Hi there 👋
+## About Me
+I am a Software Engineer and Security Researcher with a strong focus on Web Security, Automation, and Bug Bounty.  
+My goal is to build tools that are fast, secure, and easy to use, helping teams improve both productivity and security.
 
-<!--
-**Navid-FIE-SEC/Navid-FIE-SEC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills & Technologies
+- Languages: Python, Go, JavaScript, PHP   
+- Domains: Web Security, Automation, Pentesting, RedTeamer ,....
+- DevOps: GitHub Actions, CI/CD Pipelines  
 
-Here are some ideas to get you started:
+## Featured Projects
+- Anything about security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+- Release more open-source security tools  
+- Contribute to open-source projects  
+- Collaborate with international security teams  
+
+## Contact
+Email: mohammadnavidatayee@gmail.com    
