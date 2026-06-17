@@ -17,3 +17,5 @@ My goal is to build tools that are fast, secure, and easy to use, helping teams 
 
 ## Contact
 Email: mohammadnavidatayee@gmail.com    
+Linkedin: https://linkedin.com/in/mohammad-navid-atayee-07916b388
+
